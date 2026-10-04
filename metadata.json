@@ -1,0 +1,6 @@
+{
+  "name": "Boxput AI Website Builder",
+  "description": "Production-ready AI website builder SaaS. Generate complete multi-page websites with natural language prompts, live split-screen preview, AI editing, version history, export, and one-click publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
